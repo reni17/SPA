@@ -1,2 +1,2 @@
-# SPA
-Pet care 
+# Pet care(SPA)
+Small app for pets
